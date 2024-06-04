@@ -5,6 +5,11 @@
 let variable = value;
 ```
 
+### Declarar una constante
+```
+const end = value;
+```
+
 ### Imprimir en consola
 ```
 console.log(variable);
@@ -16,9 +21,15 @@ let array = [];
 let array = ["first", "second"];
 ```
 
-### Agregar un elemento a un array
+### Agregar un elemento al final de un array
+Retorna el nuevo tamaño del array
 ```
 array.push(element);
+```
+### Agregar un elemento al inicio de un array
+Retorna el nuevo tamaño del array
+```
+array.unshift(element);
 ```
 
 ### Eliminar el último elemento de un array 
@@ -26,10 +37,9 @@ array.push(element);
 let popped = array.pop();
 ```
 
-### Constantes
-Tienen que inicializarse y no deben cambiar de valor
+### Eliminar el primer elemento de un array
 ```
-const end = value;
+const shifted = array.shift();
 ```
 
 ### For
@@ -66,8 +76,22 @@ if (condition) {
 ```
 
 ### While
-````
+```
 while (condition) {
   logic;
 }
+```
+
+### Objetos
+```
+const object = {
+  name: "Test"
+  "age of": 10
+};
+```
+
+### Acceder a los atributos de un objeto
+```
+object.name;
+object["age of"];
 ```
