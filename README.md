@@ -16,6 +16,13 @@ Este es un pequeño programa para poner en práctica condicionales y bucles.
 Este es un juego simple para utilizar lo aprendido de javascript y además utilizando html y css para darle una interfaz y colaborando con la usabilidad.
 
 ### [4. Random Background Color Changer](./4.randomBackgroundColor/)
+En esta actividad se debía depurar el funcionamiento de un programa que cambiaba el fondo de la página al dar click en un botón para que funcionara correctamente.
+
+### [5. Calories Counter](./5.CalorieCounter/)
+Este es un mini proyecto que cuenta las calorias consumidas, quemadas y las que se desea ganar para saber si se esta en deficit, en equilibrio o esta por arriba.
+
+### [6. Rock, Paper, Scissors Game](./6.Rock-Paper-Scissors/)
+Juego de pidra papel o tigera para reforzar algunos conceptos.
 
 ## Proyectos
 
